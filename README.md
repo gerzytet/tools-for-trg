@@ -1,6 +1,6 @@
 # tools-for-trg
 
-A collection of custom placeholders and executors
+A collection of custom placeholders and executors.  See the [wiki](https://github.com/gerzytet/tools-for-trg/wiki) for more details on each one.
 
 To install a placeholder/executor:
 
